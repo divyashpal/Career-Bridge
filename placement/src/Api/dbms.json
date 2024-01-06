@@ -1,0 +1,32 @@
+[
+    {
+      "question": "What is DBMS",
+      "answer":
+        "DBMS is a collection of programs that facilitates users to create and maintain a database. In other words, DBMS provides us an interface or tool for performing different operations such as the creation of a database, inserting data into it, deleting data from it, updating the data, etc. DBMS is a software in which data is stored in a more secure way as compared to the file-based system. Using DBMS, we can overcome many problems such as- data redundancy, data inconsistency, easy access, more organized and understandable, and so on. There is the name of some popular Database Management System- MySQL, Oracle, SQL Server, Amazon simple DB (Cloud-based), etc."
+    },
+    {
+      "question": "What is a database",
+      "answer":
+       " A Database is a logical, consistent and organized collection of data that it can easily be accessed, managed and updated. Databases, also known as electronic databases are structured to provide the facility of creation, insertion, updating of the data efficiently and are stored in the form of a file or set of files, on the magnetic disk, tapes and another sort of secondary devices"
+    },
+    {
+      "question": "What are the advantages of DBMS",
+      "answer":
+        "1) Redundancy control.\n 2) Restriction for unauthorized access.\n 3) Provides multiple user interfaces.\n 4) Provides backup and recovery.\n 5) Enforces integrity constraints.\n 6) Ensure data consistency.\n 7) Easy accessibility.\n 8) Easy data extraction and data processing due to the use of queries."
+    },
+    {
+      "question": "What are different types of DBMS",
+      "answer":
+        "The types of DBMS based on data model are as follows − Relational database ,Object oriented database ,Hierarchical database ,Network database."
+    },
+    {
+      "question": "What is Relational Database",
+      "answer":
+        "A relational database management system (RDBMS) is a system where data is organized in two-dimensional tables using rows and columns. It is a combination of relational database concepts and object-oriented principles. Relational database concepts are concurrency control, transactions, etc. OOPs principles are data encapsulation, inheritance, and polymorphism.It requires less code and is easy to maintain."
+    },
+    {
+      "question": "What is Hierarchical Database",
+      "answer":
+        "It is a system where the data elements have a one to many relationship (1: N). Here data is organized like a tree which is similar to a folder structure in your computer system. The hierarchy starts from the root node, connecting all the child nodes to the parent node.It is used in industry on mainframe platforms."
+    }
+]

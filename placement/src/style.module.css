@@ -1,0 +1,14 @@
+.category {
+  margin: 1rem 0rem;
+  padding: 10rem;
+}
+
+#category :hover {
+  transform: scale(1.05);
+  transition: 0.1s;
+}
+
+#herocard {
+  margin-top: 1rem;
+  text-align: left;
+}

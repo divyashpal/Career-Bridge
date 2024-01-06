@@ -1,0 +1,26 @@
+[
+    {
+      "question": "What is the network",
+      "answer":
+        "According to Merriam-Webster, Network is usually an informally interconnected group or association of different entities like a person, computers, radio stations, etc."
+    },
+    {
+      "question": "Explain LAN (Local Area Network)",
+      "answer":
+        "LANs are widely used to connect computers/laptops and consumer electronics which enables them to share resources (e.g., printers, fax machines) and exchange information. When LANs are used by companies or organizations, they are called enterprise networks. There are two different types of LAN networks i.e. wireless LAN (no wires involved achieved using Wi-Fi) and wired LAN (achieved using LAN cable). Wireless LANs are very popular these days for places where installing wire is difficult. The below diagrams explain both wireless and wired LAN."
+    },
+    {
+      "question": "Tell me something about VPN (Virtual Private Network)",
+      "answer":
+       " VPN or the Virtual Private Network is a private WAN (Wide Area Network) built on the internet. It allows the creation of a secured tunnel (protected network) between different networks using the internet (public network). By using the VPN, a client can connect to the organization’s network remotely."
+    },
+    {
+      "question": "What are the different types of VPN",
+      "answer":"Few types of VPN are:\nAccess VPN: Access VPN is used to provide connectivity to remote mobile users and telecommuters. It serves as an alternative to dial-up connections or ISDN (Integrated Services Digital Network) connections. It is a low-cost solution and provides a wide range of connectivity.\nSite-to-Site VPN: A Site-to-Site or Router-to-Router VPN is commonly used in large companies having branches in different locations to connect the network of one office to another in different locations. There are 2 sub-categories as mentioned below:\nIntranet VPN: Intranet VPN is useful for connecting remote offices in different geographical locations using shared infrastructure (internet connectivity and servers) with the same accessibility policies as a private WAN (wide area network).\nExtranet VPN: Extranet VPN uses shared infrastructure over an intranet, suppliers, customers, partners, and other entities and connects them using dedicated connections"
+    },
+    {
+      "question": "Define different types of network topology",
+      "answer":
+       " The different types of network topology are given below:\nBus Topology:\nAll the nodes are connected using the central link known as the bus.\nIt is useful to connect a smaller number of devices.\nIf the main cable gets damaged, it will damage the whole network\nStar Topology:\nAll the nodes are connected to one single node known as the central node.\nIt is more robust.\nIf the central node fails the complete network is damaged.\nEasy to troubleshoot.\nMainly used in home and office networks.\nRing Topology:\nEach node is connected to exactly two nodes forming a ring structure.\nIf one of the nodes are damaged, it will damage the whole network.\n       It is used very rarely as it is expensive and hard to install and manage.\nMesh Topology:\nEach node is connected to one or many nodes.\nIt is robust as failure in one link only disconnects that node.\nIt is rarely used and installation and management are difficult.\nTree Topology:\nA combination of star and bus topology also know as an extended bus topology.\nAll the smaller star networks are connected to a single bus.\nIf the main bus fails, the whole network is damaged.\nHybrid:\nIt is a combination of different topologies to form a new topology.\nIt helps to ignore the drawback of a particular topology and helps to pick the strengths from other."
+    }
+  ]

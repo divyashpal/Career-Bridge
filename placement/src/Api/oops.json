@@ -1,0 +1,35 @@
+[
+    {   "question": "What is meant by the term OOPs",
+    "answer":
+      "OOPs refers to Object-Oriented Programming. It is the programming paradigm that is defined using objects. Objects can be considered as real-world instances of entities like class, that have some characteristics and behaviors."
+    },
+    {
+    "question": "What is the need for OOPs",
+    "answer":
+      "There are many reasons why OOPs is mostly preferred, but the most important among them are: OOPs helps users to understand the software easily, although they don’t know the actual implementation.With OOPs, the readability, understandability, and maintainability of the code increase multifold.Even very big software can be easily written and managed easily using OOPs."
+    },
+    {
+    "question": "What are some major Object Oriented Programming languages",
+    "answer":"The programming languages that use and follow the Object-Oriented Programming paradigm or OOPs, are known as Object-Oriented Programming languages. Some of the major Object-Oriented Programming languages include: Java C++ Javascript Python PHP"
+    },
+    {
+    "question": "What is a class",
+    "answer":
+     " A class can be understood as a template or a blueprint, which contains some values, known as member data or member, and some set of rules, known as behaviors or functions. So when an object is created, it automatically takes the data and functions that are defined in the class.Therefore the class is basically a template or blueprint for objects. Also one can create as many objects as they want based on a class.For example, first, a car’s template is created. Then multiple units of car are created based on that template."
+    },
+    {
+    "question": "What is an object",
+    "answer":
+      "An object refers to the instance of the class, which contains the instance of the members and behaviors defined in the class template. In the real world, an object is an actual entity to which a user interacts, whereas class is just the blueprint for that object. So the objects consume space and have some characteristic behavior.For example, a specific car."
+    },
+    {
+    "question": "What is encapsulation",
+    "answer":
+      "One can visualize Encapsulation as the method of putting everything that is required to do the job, inside a capsule and presenting that capsule to the user. What it means is that by Encapsulation, all the necessary data and methods are bind together and all the unnecessary details are hidden to the normal user. So Encapsulation is the process of binding data members and methods of a program together to do a specific job, without revealing unnecessary details."
+    },
+    {
+    "question": "What is Polymorphism",
+    "answer":
+     " Polymorphism is composed of two words - “poly” which means “many”, and “morph” which means “shapes”. Therefore Polymorphism refers to something that has many shapes."
+    }
+]
